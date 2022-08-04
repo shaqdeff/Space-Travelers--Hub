@@ -9,6 +9,9 @@ The Space Travelers' Hub consists of Rockets, Missions, and the My Profile secti
 - React Bootstrap
 - SpaceX API
 
+## Live Demo
+- Click [here](https://super-space-hub.netlify.app/) to view the live demo.
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
